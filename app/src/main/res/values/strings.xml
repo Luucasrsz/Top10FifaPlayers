@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Top10FifaPlayers</string>
+
+    <string name="nacionalidad">Nacionalidad</string>
+    <string name="edad">Edad</string>
+    <string name="altura">Altura</string>
+    <string name="posicion">Posicion</string>
+    <string name="dorsal">Dorsal</string>
+    <string name="valor">Valor</string>
+
+    <string name="estadio"> ----> UBICACIÓN DEL ESTADIO  </string>
+
+    <string name="jugador1">Griezmann</string>
+    <string name="equipo1">Atlético de Madrid</string>
+    <string name="nacionalidad1">Francia</string>
+    <string name="edad1">32 años</string>
+    <string name="altura1">176 cm</string>
+    <string name="posicion1">DC</string>
+    <string name="dorsal1">7</string>
+    <string name="valor1">50 Mill</string>
+    <string name="nombreEstadio1">ESTADIO METROPOLITANO</string>
+    <string name="link1">https://maps.app.goo.gl/bSgWBBgifXWVvQNNA</string>
+
+    <string name="jugador2">Ohian Sancet</string>
+    <string name="equipo2">Athletic Club</string>
+    <string name="nacionalidad2">España</string>
+    <string name="edad2">23 años</string>
+    <string name="altura2">188 cm</string>
+    <string name="posicion2">MCO</string>
+    <string name="dorsal2">8</string>
+    <string name="valor2">34 Mill</string>
+    <string name="nombreEstadio2">SAN MAMÉS</string>
+    <string name="link2">https://maps.app.goo.gl/LYnVuWUrHjW96VUb8</string>
+
+    <string name="jugador3">Ronald Araújo</string>
+    <string name="equipo3">FC Barcelona</string>
+    <string name="nacionalidad3">Uruguay</string>
+    <string name="edad3">24 años</string>
+    <string name="altura3">191 cm</string>
+    <string name="posicion3">DF</string>
+    <string name="dorsal3">4</string>
+    <string name="valor3">76 Mill</string>
+    <string name="nombreEstadio3">CAMP NOU</string>
+    <string name="link3">https://maps.app.goo.gl/uKVhsE62pFMAgxuL9</string>
+
+    <string name="jugador4">Takefusa Kubo</string>
+    <string name="equipo4">Real Sociedad</string>
+    <string name="nacionalidad4">Japón</string>
+    <string name="edad4">22 años</string>
+    <string name="altura4">174 cm</string>
+    <string name="posicion4">MD</string>
+    <string name="dorsal4">14</string>
+    <string name="valor4">62 Mill</string>
+    <string name="nombreEstadio4">ANOETA</string>
+    <string name="link4">https://maps.app.goo.gl/rHykZyT4HaygPJoL7</string>
+
+    <string name="jugador5">Oscar Trejo</string>
+    <string name="equipo5">Rayo Vallecano</string>
+    <string name="nacionalidad5">Argentina</string>
+    <string name="edad5">35 años</string>
+    <string name="altura5">177 cm</string>
+    <string name="posicion5">MC</string>
+    <string name="dorsal5">8</string>
+    <string name="valor5">1.9 Mill</string>
+    <string name="nombreEstadio5">ESTADIO DE VALLECAS</string>
+    <string name="link5">https://maps.app.goo.gl/VteXAnmFd3ru4YLb8</string>
+
+    <string name="jugador6">Isco Alarcón</string>
+    <string name="equipo6">Betis</string>
+    <string name="nacionalidad6">España</string>
+    <string name="edad6">31 años</string>
+    <string name="altura6">176 cm</string>
+    <string name="posicion6">MCO</string>
+    <string name="dorsal6">22</string>
+    <string name="valor6">8.3 Mill</string>
+    <string name="nombreEstadio6">BENITO VILLAMARIN</string>
+    <string name="link6">https://maps.app.goo.gl/cEd2Bg1jzPrYmi9R6</string>
+
+    <string name="jugador7">Bellingham</string>
+    <string name="equipo7">Real Madrid</string>
+    <string name="nacionalidad7">Inglaterra</string>
+    <string name="edad7">20 años</string>
+    <string name="altura7">188 cm</string>
+    <string name="posicion7">MC</string>
+    <string name="dorsal7">5</string>
+    <string name="valor7">170 Mill</string>
+    <string name="nombreEstadio7">SANTIAGO BERNABEU</string>
+    <string name="link7">https://maps.app.goo.gl/TsZ1pkhXpCq6d5FA9</string>
+
+    <string name="jugador8">Rakitic</string>
+    <string name="equipo8">Sevilla</string>
+    <string name="nacionalidad8">Croacia</string>
+    <string name="edad8">35 años</string>
+    <string name="altura8">184 cm</string>
+    <string name="posicion8">MC</string>
+    <string name="dorsal8">10</string>
+    <string name="valor8">4.4 Mill</string>
+    <string name="nombreEstadio8">SÁNCHEZ PIZJUAN</string>
+    <string name="link8">https://maps.app.goo.gl/9DoAVDLThPv2SNvC8</string>
+
+    <string name="jugador9">Savinho</string>
+    <string name="equipo9">Girona</string>
+    <string name="nacionalidad9">Brasil</string>
+    <string name="edad9">19 años</string>
+    <string name="altura9">176 cm</string>
+    <string name="posicion9">EI</string>
+    <string name="dorsal9">16</string>
+    <string name="valor9">31 Mill</string>
+    <string name="nombreEstadio9">MONTIVILI</string>
+    <string name="link9">https://maps.app.goo.gl/7cecqvLSiewvtjVE9</string>
+
+    <string name="jugador10">Fali</string>
+    <string name="equipo10">Cádiz</string>
+    <string name="nacionalidad10">España</string>
+    <string name="edad10">30 años</string>
+    <string name="altura10">186 cm</string>
+    <string name="posicion10">DFC</string>
+    <string name="dorsal10">3</string>
+    <string name="valor10">2.3 Mill</string>
+    <string name="nombreEstadio10">NUEVO MIRANDILLA</string>
+    <string name="link10">https://maps.app.goo.gl/bZbwmUaMc1uvJx617</string>
+
+    <string name="expand_button_content_description">See more or less information about a player.</string>
+</resources>
